@@ -6,7 +6,7 @@
     module.exports = {
         data: function() {
             return {
-                greeting: 'Hello Vueify!'
+                greeting: 'Hello Vueify! This is the first try'
             }
         }
     }
